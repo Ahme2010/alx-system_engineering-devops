@@ -1,1 +1,1 @@
-text to bee add about scripts
+text to be add about variables
